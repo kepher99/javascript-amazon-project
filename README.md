@@ -24,11 +24,11 @@ To get started, you'll need to have the following installed on your computer:
 
 1. **Clone the repository**: Use Git to clone the project repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/amazon-project.git
+    git clone https://github.com/kepher99/javascript-amazon-project.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd amazon-project
+    cd javascript-amazon-project
     ```
 3. **Open the project in your text editor** and start coding! 🎉
 
